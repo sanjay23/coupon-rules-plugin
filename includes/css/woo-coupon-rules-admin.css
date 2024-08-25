@@ -1,0 +1,6 @@
+.post-type-shop_coupon .woo_coupon_rule_product_wrap{
+    display: flex;
+}
+.woo_coupon_rule_discounted_product.woo_coupon_inner {
+    margin-left: 20px;
+}
